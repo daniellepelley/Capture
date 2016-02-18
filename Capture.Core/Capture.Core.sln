@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capture.Core", "Capture.Core\Capture.Core.csproj", "{2EF2BFAF-9BBD-4253-A739-1853602DE8BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Capture.Core.Test", "..\Capture.Core.Test\Capture.Core.Test.csproj", "{C241497B-605C-4767-8967-DFFC9A3965B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2EF2BFAF-9BBD-4253-A739-1853602DE8BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EF2BFAF-9BBD-4253-A739-1853602DE8BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EF2BFAF-9BBD-4253-A739-1853602DE8BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EF2BFAF-9BBD-4253-A739-1853602DE8BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C241497B-605C-4767-8967-DFFC9A3965B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C241497B-605C-4767-8967-DFFC9A3965B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C241497B-605C-4767-8967-DFFC9A3965B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C241497B-605C-4767-8967-DFFC9A3965B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
